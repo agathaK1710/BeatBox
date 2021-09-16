@@ -9,7 +9,6 @@ class SoundViewModel(private var beatBox: BeatBox): BaseObservable() {
             beatBox.play(it)
         }
     }
-
     var sound: Sound? = null
     set(sound) {
         field = sound
