@@ -3,6 +3,7 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Kotlin/AS/book projects/BeatBox/app/src/main/res/drawable/button_beat_box_normal.xml" value="0.1" />
         <entry key="..\:/Kotlin/AS/book projects/BeatBox/app/src/main/res/layout/activity_main.xml" value="0.1" />
         <entry key="..\:/Kotlin/AS/book projects/BeatBox/app/src/main/res/layout/list_item_sound.xml" value="0.1" />
       </map>
